@@ -19,7 +19,7 @@ import SupportIcon from './icons/IconSupport.vue'
     provides you with all information you need to get started.
   </WelcomeItem>
 
-  <WelcomeItem>
+  <!-- <WelcomeItem>
     <template #icon>
       <ToolingIcon />
     </template>
@@ -38,9 +38,9 @@ import SupportIcon from './icons/IconSupport.vue'
     <br />
 
     More instructions are available in <code>README.md</code>.
-  </WelcomeItem>
+  </WelcomeItem> -->
 
-  <WelcomeItem>
+  <!-- <WelcomeItem>
     <template #icon>
       <EcosystemIcon />
     </template>
@@ -54,9 +54,9 @@ import SupportIcon from './icons/IconSupport.vue'
     resources, we suggest paying
     <a target="_blank" href="https://github.com/vuejs/awesome-vue">Awesome Vue</a>
     a visit.
-  </WelcomeItem>
+  </WelcomeItem> -->
 
-  <WelcomeItem>
+  <!-- <WelcomeItem>
     <template #icon>
       <CommunityIcon />
     </template>
@@ -69,9 +69,9 @@ import SupportIcon from './icons/IconSupport.vue'
     <a target="_blank" href="https://news.vuejs.org">our mailing list</a> and follow the official
     <a target="_blank" href="https://twitter.com/vuejs">@vuejs</a>
     twitter account for latest news in the Vue world.
-  </WelcomeItem>
+  </WelcomeItem> -->
 
-  <WelcomeItem>
+  <!-- <WelcomeItem>
     <template #icon>
       <SupportIcon />
     </template>
@@ -80,5 +80,5 @@ import SupportIcon from './icons/IconSupport.vue'
     As an independent project, Vue relies on community backing for its sustainability. You can help
     us by
     <a target="_blank" href="https://vuejs.org/sponsor/">becoming a sponsor</a>.
-  </WelcomeItem>
+  </WelcomeItem> -->
 </template>

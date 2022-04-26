@@ -26,3 +26,10 @@ coverage
 *.njsproj
 *.sln
 *.sw?
+
+# Ignore public directory content
+/public/*
+!/public/.keep
+
+# Ignore main indexPath of Vue.js
+app/views/general/index.html.erb
